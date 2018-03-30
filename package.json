@@ -1,0 +1,14 @@
+{
+  "name": "ts-twitch-bot",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "Reno DuBois <renodubois@noreply.users.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/es6-promise": "^3.3.0",
+    "@types/mongoose": "^5.0.7",
+    "axios": "^0.18.0",
+    "mongoose": "^5.0.12",
+    "tmi.js": "^1.2.1"
+  }
+}
