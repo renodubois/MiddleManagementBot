@@ -534,9 +534,9 @@ supports-color@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-2.0.0.tgz#535d045ce6b6363fa40117084629995e9df324c7"
 
-tmi.js@^1.2.1:
+"tmi.js@https://github.com/renodubois/tmi.js":
   version "1.2.1"
-  resolved "https://registry.yarnpkg.com/tmi.js/-/tmi.js-1.2.1.tgz#6ba34538a00adc82aa6ee481a9b3649ff6111853"
+  resolved "https://github.com/renodubois/tmi.js#fc35354981b1f6965ee4a6eb65b0e1254c86590f"
   dependencies:
     request "2.74.0"
     ws "1.0.1"
